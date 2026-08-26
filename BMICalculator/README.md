@@ -1,6 +1,6 @@
 # BMI & Ideal Weight Calculator (SwiftUI)
 
-A two-part iOS app that calculates BMI and ideal weight from user input, using two different SwiftUI input methods — text fields and sliders. Built for a Principles of Mobile Computing course at Arizona State University (CSE 335).
+A two-part iOS app that calculates BMI and ideal weight from user input, using two different SwiftUI input methods — text fields and sliders.
 
 ## Overview
 
