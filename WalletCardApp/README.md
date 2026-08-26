@@ -1,6 +1,6 @@
 # Wallet Card App (SwiftUI)
 
-An iOS app for entering credit/debit card details and previewing them as a realistic-looking card, built with SwiftUI `Form`/`Section` input and a live preview sheet. Built for a Principles of Mobile Computing course at Arizona State University (CSE 335).
+An iOS app for entering credit/debit card details and previewing them as a realistic-looking card, built with SwiftUI `Form`/`Section` input and a live preview sheet.
 
 ## Overview
 
