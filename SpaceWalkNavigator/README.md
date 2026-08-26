@@ -1,6 +1,6 @@
 # Space Walk Navigator (SwiftUI)
 
-An iOS app that calculates and displays a person's weight on Earth, the Moon, and Jupiter, using SwiftUI's `NavigationStack` and `NavigationPath` to pass data forward and backward across a multi-screen navigation flow. Built for a Principles of Mobile Computing course at Arizona State University (CSE 335).
+An iOS app that calculates and displays a person's weight on Earth, the Moon, and Jupiter, using SwiftUI's `NavigationStack` and `NavigationPath` to pass data forward and backward across a multi-screen navigation flow.
 
 ## Overview
 
