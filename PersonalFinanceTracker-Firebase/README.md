@@ -1,6 +1,6 @@
 # Personal Finance Tracker with Firebase (SwiftUI)
 
-An extension of the original Personal Finance Tracker app, adding cloud data persistence via Firebase Firestore. Built for a software engineering course at Arizona State University as a follow-up assignment to the original MVVM version.
+An extension of the original Personal Finance Tracker app, adding cloud data persistence via Firebase Firestore.
 
 ## What changed from the original
 
