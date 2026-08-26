@@ -1,6 +1,6 @@
 # Swift & iOS Development
 
-A collection of iOS apps built with SwiftUI, spanning fundamentals (state management, navigation) through more advanced integrations (Firebase, MapKit, REST APIs). Built across a Principles of Mobile Computing course at Arizona State University (CSE 335), plus one independent software engineering course project.
+A collection of iOS apps built with SwiftUI, spanning fundamentals (state management, navigation) through more advanced integrations (Firebase, MapKit, REST APIs). Built across a Mobile App Development course at Arizona State University.
 
 ## Projects
 
