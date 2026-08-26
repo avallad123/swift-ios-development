@@ -1,7 +1,6 @@
 # Nearby Cities Explorer (SwiftUI, REST API, MapKit)
 
-An iOS app that fetches nearby cities from the GeoNames web service based on the visible map region, displaying them in a list with name, country, and population, and plotting a selected city on the map. Built for a Principles of Mobile Computing course at Arizona State University (CSE 335).
-
+An iOS app that fetches nearby cities from the GeoNames web service based on the visible map region, displaying them in a list with name, country, and population, and plotting a selected city on the map.
 ## Overview
 
 The app demonstrates calling a REST web service and parsing its JSON response into SwiftUI-driven UI:
