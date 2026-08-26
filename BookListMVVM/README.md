@@ -1,7 +1,6 @@
 # Book List (SwiftUI, MVVM)
 
-An iOS app for managing a personal book collection — add, delete, search, edit, and page through book records — built with SwiftUI following the MVVM architecture and using `NavigationView`, `toolbar`/`ToolbarItem`, and `.alert` throughout. Built for a Principles of Mobile Computing course at Arizona State University (CSE 335).
-
+An iOS app for managing a personal book collection — add, delete, search, edit, and page through book records — built with SwiftUI following the MVVM architecture and using `NavigationView`, `toolbar`/`ToolbarItem`, and `.alert` throughout.
 ## Features
 
 - **Add** — enter title, author, genre, and price for a new book via an alert form, accessible from a toolbar button
