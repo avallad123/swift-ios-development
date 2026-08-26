@@ -1,6 +1,6 @@
 # Personal Finance Tracker (SwiftUI)
 
-An iOS app for tracking daily income, expenses, and savings, built with SwiftUI following the MVVM (Model-View-ViewModel) architecture. Built for a software engineering course at Arizona State University.
+An iOS app for tracking daily income, expenses, and savings, built with SwiftUI following the MVVM (Model-View-ViewModel) architecture.
 
 ## Overview
 
