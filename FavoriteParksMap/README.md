@@ -1,6 +1,6 @@
 # Favorite Parks (SwiftUI, MapKit)
 
-An iOS app for browsing, adding, and deleting favorite national parks, with a detail view showing each park's location on an interactive map and live place search (coffee, pizza, etc.) around it. Built with MVVM architecture for a Principles of Mobile Computing course at Arizona State University (CSE 335).
+An iOS app for browsing, adding, and deleting favorite national parks, with a detail view showing each park's location on an interactive map and live place search (coffee, pizza, etc.) around it. Built with MVVM architecture.
 
 ## Features
 
